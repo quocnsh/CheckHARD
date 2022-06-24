@@ -55,10 +55,10 @@ def create_arguments():
     Args:        
     Returns:      
         args (argparse.ArgumentParser):
-            all aguments for TRUST
+            all aguments for CheckHARD
 
     """
-    parser = argparse.ArgumentParser(description='VoteTRANS')
+    parser = argparse.ArgumentParser(description='CheckHARD')
     parser.add_argument('--dataset',
                         help='A dataset',
                         default="sst2")                        

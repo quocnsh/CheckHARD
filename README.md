@@ -7,11 +7,8 @@
 ## Usage
 
 * Run the following commmands for corresponding objectives:
- 
  `python3 detect_adversarial_text.py`
- 
  `python3 correction_prediction.py`
- 
  `python3 suggest_preturbed_words.py`
 
 
